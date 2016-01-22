@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About me
 
-My primary research interest is in computer graphics, game development and programming. See my project page for details.
+Hello! This is Miao Kaixiang, an undergraduate student (expect graduation June, 2016) from [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-sen University](http://www.sysu.edu.cn). I have shifted my research focus from artificial intelligence. Now my primary research interest is in computer graphics, game development and programming. See my project page for details.
 
 ![myphoto](./myphoto.gif)
 
@@ -22,35 +22,15 @@ Create your own website is as easy as clone or fork a [template](https://github.
 
 ### Admin tools
 * site [configuration file](https://github.com/immiao/immiao.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
+* Jekyll + [immiao.disqus.com](http://immiao.disqus.com/admin/)
 * Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
    * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
 * Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
 * YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
 * markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
 
-### About comments
-Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
+### My Chinese Blog
+Here is my old personal blog. It is mostly on my projects and thoughts before 2016, which mainly include algorithms and advanced data structures prepared for ACM-ICPC contests.
 
-    ---
-    layout: post
-    comments: true
-    # other options
-    ---
-
-### Sample markdowns
-Click view source at the bottom of the page
-
-* Embedding code
-{% highlight lua %}
-local function main()
-	print("hello world everyone")
-end
-{% endhighlight %}
-
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
-
-* [Xizhi's old website before 2005](/oldsite2005/index.htm). 
+* [Kaixiang's old website before 2016](http://blog.csdn.net/immiao). 
 
