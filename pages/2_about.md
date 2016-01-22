@@ -8,6 +8,14 @@ permalink: /about/
 * content
 {:toc}
 
+## About me
+
+My primary research interest is in computer graphics, game development and programming. See my project page for details.
+
+![myphoto](./myphoto.gif)
+
+
+
 ## About the site
 This is a personal website of Miao Kaixiang, created with github and jekyll. 
 Create your own website is as easy as clone or fork a [template](https://github.com/immiao/immiao.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
@@ -40,12 +48,6 @@ local function main()
 	print("hello world everyone")
 end
 {% endhighlight %}
-
-
-## About me
-
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
-
 
 ### 2005 Old Website 
 Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
