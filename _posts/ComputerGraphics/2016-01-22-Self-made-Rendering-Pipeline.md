@@ -113,7 +113,7 @@ for (int l = 0; l < lightCounter; l++)
 	double mulRV = rVector.dotMul(vVector);
 	if (mulRV > 0)
 		sumSpecular += Ks * mLight[l].Ip * pow(mulRV, N);
-	if (nVector.dotMul(lVector)>0)
+	if (nVector.dotMul(lVector) > 0)
 		sumDiffuse += Kd * mLight[l].Ip * (nVector.dotMul(lVector));
 }
 double fatt = 1.0;	
@@ -127,11 +127,11 @@ bbb = Ka * tmp.b  + fatt * sumDiffuse * tmp.b + sumSpecular * tmp.b;
 Variables `z1` and `z2` are used for Z-Buffer. `drawLine1`, `drawLine2`, `drawLine3` and `drawLine4` are the sub-functions of `drawLine`, which will be called respectively when considering different slope of the lines.
 
 {% highlight cpp %}
-void drawLine(int x0, int x1, int y0, int y1, double r, double g, double b, double z0=0, double z1=0);
-void drawLine1(int x0, int x1, int y0, int y1, double r, double g, double b, double z0=0, double z1=0);
-void drawLine2(int x0, int x1, int y0, int y1, double r, double g, double b, double z0=0, double z1=0);
-void drawLine3(int x0, int x1, int y0, int y1, double r, double g, double b, double z0=0, double z1=0);
-void drawLine4(int x0, int x1, int y0, int y1, double r, double g, double b, double z0=0, double z1=0);
+void drawLine(int x0, int x1, int y0, int y1, double r, double g, double b, double z0 = 0, double z1 = 0);
+void drawLine1(int x0, int x1, int y0, int y1, double r, double g, double b, double z0 = 0, double z1 = 0);
+void drawLine2(int x0, int x1, int y0, int y1, double r, double g, double b, double z0 = 0, double z1 = 0);
+void drawLine3(int x0, int x1, int y0, int y1, double r, double g, double b, double z0 = 0, double z1 = 0);
+void drawLine4(int x0, int x1, int y0, int y1, double r, double g, double b, double z0 = 0, double z1 = 0);
 {% endhighlight %}
 
 * **Clipping**
@@ -141,7 +141,7 @@ Clipping could be implemented simply by the following `if` sentence. However, it
 {% highlight cpp %}
 void drawDot(int x, int y, double r, double g, double b, double z) 
 {
-	if (!isInView(x, y) || !(z>=0 && z<=1)) return;
+	if (!isInView(x, y) || !(z >= 0 && z <= 1)) return;
 	glBegin(GL_POINTS);
 	glColor3f(r, g, b);
 	glVertex2i(x, y);
@@ -161,7 +161,7 @@ for (int i=0;i<tmp.numFace;i++)
 	mVector v2(tmp.p[index2], tmp.p[index3]);
 	mVector nVector = v2 * v1;
 	nVector.normalize();
-	for (int j=0;j<tmp.facePointNum[i];j++)
+	for (int j = 0;j < tmp.facePointNum[i]; j++)
 	{
 		int index = tmp.face[i][j] - 1;
 		tmp.pointVector[index] += nVector;
