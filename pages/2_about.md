@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About me
 
-Hello! This is Miao Kaixiang, an undergraduate student (expect graduation June, 2016) from [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-sen University](http://www.sysu.edu.cn). I have shifted my research focus from artificial intelligence. Now my primary research interest is in computer graphics, game development and programming. See my project page for details.
+Hello! This is Miao Kaixiang, an undergraduate student (expect graduation June, 2016) from [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) at [Sun Yat-sen University](http://www.sysu.edu.cn). I have shifted my research focus from artificial intelligence. Now my primary research interest is in computer graphics, game development and programming. See my project page for details. Please feel free to contact me if you have things to share. My contact information is at the bottom of the website.
 
 ![myphoto](./myphoto.gif)
 
