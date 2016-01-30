@@ -68,8 +68,10 @@ Visit this link to see my project on Github : [https://github.com/immiao/ModelEd
 
 #### Results at Present Stage
 
-![generator1](./generator1.gif)
+![generator1](./generator1.jpg)
 
-![generator2](./generator2.gif)
+![generator2](./generator2.jpg)
 
-![generator3](./generator3.gif)
+![generator3](./generator3.jpg)
+
+![generator4](./generator4.jpg)
