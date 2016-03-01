@@ -18,7 +18,7 @@ Hello! This is Miao Kaixiang, an undergraduate student (expect graduation June, 
 
 * **Reading books**
 
-Real-time rendering technique is an important aspect in game development. I am trying hard to learn knowledge concerning this topic and some tricky skills used to balance the efficiency and the rendering quality seem interesting. Besides, Offline rendering is also an interesting topic.
+Real-time rendering technique is an important aspect in game development. I am trying hard to learn knowledge concerning this topic and some tricky skills used to balance the efficiency and the rendering quality seem interesting. Besides, offline rendering is also an interesting topic.
 
 Here are some resources relating to rendering:
 
