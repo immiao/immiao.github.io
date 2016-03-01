@@ -14,7 +14,55 @@ Hello! This is Miao Kaixiang, an undergraduate student (expect graduation June, 
 
 ![myphoto](./myphoto.gif)
 
+## Present work
 
+* **Reading books**
+
+Real-time rendering technique is an important aspect in game development. I am trying hard to learn knowledge concerning this topic and some tricky skills used to balance the efficiency and the rendering quality seem interesting. Besides, Offline rendering is also an interesting topic.
+
+Here are some resources relating to rendering:
+
+*Rendering Grass Terrains in Real-Time with Dynamic Lighting*
+[http://www.kevinboulanger.net/grass.html](http://www.kevinboulanger.net/grass.html)
+
+*SIGGRAPH 2013 Course: Physically Based Shading in Theory and Practice*
+[http://blog.selfshadow.com/publications/s2013-shading-course/](http://blog.selfshadow.com/publications/s2013-shading-course/)
+
+*Realistic Water System*   
+[http://www.cs.columbia.edu/~keenan/Projects/GPUFluid/](http://www.cs.columbia.edu/~keenan/Projects/GPUFluid/)
+
+*Real-Time Local Reflections*  
+[http://www.gamedev.net/blog/1323/entry-2254101-real-time-local-reflections/](http://www.gamedev.net/blog/1323/entry-2254101-real-time-local-reflections/)
+
+*Physically-Based Real-Time Lens Flare Rendering*   
+[http://resources.mpi-inf.mpg.de/lensflareRendering/](http://resources.mpi-inf.mpg.de/lensflareRendering/)
+
+*Filtering Approaches for Real-Time Anti-Aliasing*  
+[http://iryoku.com/aacourse/](http://iryoku.com/aacourse/)
+
+*Tiled Deferred Shading*  
+[http://www.cse.chalmers.se/~olaolss/main_frame.php?contents=publication&id=tiled_shading](http://www.cse.chalmers.se/~olaolss/main_frame.php?contents=publication&id=tiled_shading)
+
+*High Quality Motion Blur & Depth of Field*
+[http://http.developer.nvidia.com/GPUGems3/gpugems3_ch27.html](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch27.html)
+[http://http.developer.nvidia.com/GPUGems/gpugems_ch23.html](http://http.developer.nvidia.com/GPUGems/gpugems_ch23.html)
+
+I am poring over the following two books:
+
+![realtime](./realtime.png)
+![pbrt](./pbrt.png)
+
+* **Developing game engine**
+
+I am expanding one of my projects to a small game engine. Besides knowledge concerning computer graphics, Object Oriented Programming and Design Patterns relating to software development are also important. The project is based on DirectX11 and Qt.
+
+![engine](./generator2.jpg)
+
+* **Developing games**
+
+To enhance my ability in game design and practical skills of using game engine, I am developing a 3D Sokoban game using Unity.
+
+![game](./unity.jpg)
 
 ## About the site
 This is a personal website of Miao Kaixiang, created with github and jekyll. 
