@@ -15,13 +15,27 @@ I eventually chose Qt instead of [MFC](https://en.wikipedia.org/wiki/Microsoft_F
 
 > **Microsoft DirectX** is a collection of application programming interfaces (APIs) for handling tasks related to multimedia, especially game programming and video, on Microsoft platforms.
 
-Some samples provided by DirectX SDK and *Introduction to 3D Game Programming with Directx 11*
-
-![sample1](./dx_sample1.png)![sample2](./dx_sample2.png)![sample3](./dx_sample3.png)
-
-I strongly recommend the book-*Introduction to 3D Game Programming with Directx 11*, which introduces **DirectX11** as well as basic graphics knowledge to readers. The author also wrote *Introduction to 3D Game Programming with DirectX 9.0*, which is also a classical teaching material of **DirectX9.0.** However, the fix-function pipeline in **DirectX9.0** is outmoded and the programmable pipeline in **DirectX11** is prefered in the industry.
+The book-*Introduction to 3D Game Programming with Directx 11* introduces **DirectX11** as well as basic graphics knowledge to readers. The author also wrote *Introduction to 3D Game Programming with DirectX 9.0*, which is also a classical teaching material of **DirectX9.0.** However, the fix-function pipeline in **DirectX9.0** is outmoded and the programmable pipeline in **DirectX11** is prefered in the industry.
 
 ![book0](./book0.jpg)![book](./book.png)
+
+During the learning process of the book, I implemented lots of effects using DirectX11.
+
+* **Mirror & Shadow Mapping**
+* **Particle System**
+* **Skybox & Animation & Normal Mapping**
+ 
+![sample1](./dx_sample1.png)
+![sample2](./dx_sample2.png)
+![sample3](./dx_sample3.png)
+
+* **Blending**
+* **Tree Billboard**
+* **Tessellation**
+
+![blend](./blend.png)
+![tree](./tree.png)
+![tessellation](./tessellation.png)
 
 ## Line Tool based on Qt and DirectX11
 
