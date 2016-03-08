@@ -53,7 +53,7 @@ void RayTracingWidget::paintEvent(QPaintEvent* pEvent)
 
 * **Recursive ray tracing**
 
-I trace the rays recursively for `maxDepth` times. It is undesirable to trace the rays infinitely since there're possible situations that the rays never end, considering two mirrors reflecting each other. The colors should be modulate according to the `reflectiveness` of its material.
+I trace the rays recursively for `maxDepth` times. It is undesirable to trace the rays infinitely since there are possible situations that the rays never end, considering two mirrors reflecting each other. The colors should be modulated according to the `reflectiveness` of its material.
 
 {% highlight cpp %}
 Color RayTracingWidget::EmitRay(Ray& ray, int depth)
