@@ -204,4 +204,4 @@ public:
 
 Monte Carlo method to simulate color bleeding caused by diffuse reflection:
 
-![raytracing](./raytracing2.png)
+![raytracing](./raytracing2.jpg)
