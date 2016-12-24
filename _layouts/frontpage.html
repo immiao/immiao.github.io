@@ -22,10 +22,10 @@ layout: default
           {% for post in site.posts %}
             <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}" >
 
-                <img style="max-width:30%;float:left;margin-top:2%;margin-bottom:2%" src="/images/desk.jpg" width="330" alt="Desk">
+                <img class="img" src="/images/desk.jpg" width="330" alt="Desk">
 
 
-                <div style="float:left;margin-left:5%;margin-top:1%">
+                <div class="text">
                   <h2>
                   {{ post.title }}
                   </h2>
@@ -42,10 +42,16 @@ layout: default
               {% for post in posts %}
                 {% if post.url %}
                   <a href="{{ post.url }}" class="post-list-item">
-                    <h2>
-                    {{ post.title }}
-                    </h2>
-                    <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    <img class="img" src="/images/desk.jpg" width="330" alt="Desk">
+
+
+                    <div class="text">
+                      <h2>
+                      {{ post.title }}
+                      </h2>
+
+                      <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
+                    </div>
                   </a>
                 {% endif %}
               {% endfor %}
