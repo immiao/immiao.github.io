@@ -20,11 +20,18 @@ layout: default
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
-            <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}">
-              <h2>
-              {{ post.title }}
-              </h2>
-              <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}" >
+
+                <img style="max-width:30%;float:left;margin-top:2%;margin-bottom:2%" src="/images/desk.jpg" width="330" alt="Desk">
+
+
+                <div style="float:left;margin-left:5%;margin-top:1%">
+                  <h2>
+                  {{ post.title }}
+                  </h2>
+
+                  <span class="">{{ post.date | date: "%b %-d, %Y" }}</span>
+                </div>
             </a>
           {% endfor %}
         </div>
