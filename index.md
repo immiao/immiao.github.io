@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Welcome to my 
 
 This is the place where I share my portfolio. 
 
