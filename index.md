@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Test
+title: NULL
 ---
 
 ## Welcome to my 
