@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+title: Test
 ---
 
 ## Welcome to my 
