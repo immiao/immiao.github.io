@@ -2,9 +2,12 @@
 layout: post
 comments: true
 categories: Computer-Graphics
+title: "Simple CPU Ray Tracing"
+img: /images/raytracing.jpg
+abstract: "A Qt based simple ray tracing application. Applied Monte Carlo method to simulate diffuse materials."
 ---
 
-> Being familiar with Qt framework and DirectX math library, I use them to implement ray tracing algorithm and render the picture onto the widget of Qt.
+> This project is based on Qt framework and DirectX math library.
 
 ## Introduction
 

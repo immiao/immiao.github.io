@@ -483,4 +483,16 @@ blockquote:last-child {
 	float:left;
 	margin-left:5%;
 	margin-top:1%;
+	max-width: 60%;
+}
+
+.tag-text
+{
+	padding: 0 5px;
+    background-color: #c6cbe9;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 90%;
+    
+    display:inline;
 }
