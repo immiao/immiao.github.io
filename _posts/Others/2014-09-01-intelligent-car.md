@@ -5,7 +5,7 @@ categories: Others
 
 img: /images/car.png
 abstract: "An intelligent car project. The car is able to track ping-pong ball and capture the ball."
-tags: raspberry-pi arduino open-cv
+tags: raspberry-pi FPGA arduino open-cv
 
 ---
 
