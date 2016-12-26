@@ -2,9 +2,13 @@
 layout: post
 comments: true
 categories: Artificial-Intelligence
+
+img: /images/mcm.jpg
+abstract: "A mathematical model to efficiently solve a problem of eliminating disease in MCM contest, 2015. Our solution earned us an Honorable Mention."
+tags: MCM mathematical-modeling artificial-intelligence operations-research weighted-k-means TSP multiple-depot-vehicle-route-problem c++ matlab
 ---
 
-> This is a problem in [The Mathematical Contest in Modeling, 2015](http://www.comap.com/undergraduate/contests/mcm/contests/2015/problems/). Our solution earns us the Honorable Mention.
+> This is a problem in [The Mathematical Contest in Modeling, 2015](http://www.comap.com/undergraduate/contests/mcm/contests/2015/problems/). Our solution earns us an Honorable Mention.
 
 Click [here](./paper.pdf) to see full pages of our paper.
 

@@ -2,9 +2,14 @@
 layout: post
 comments: true
 categories: Others
+
+img: /images/car.png
+abstract: "An intelligent car project. The car is able to track ping-pong ball and capture the ball."
+tags: raspberry-pi arduino open-cv
+
 ---
 
-> During my summer semester at Grade 3, I made an intelligent car which is able to track ping-pong ball and capture the ball. I used RaspberryPi as the image processing center and controlled the car by Arduino.
+> When I was a junior, I made an intelligent car which is able to track ping-pong ball and capture the ball. I used RaspberryPi as the image processing center and controlled the car by Arduino.
 
 ## Introduction
 

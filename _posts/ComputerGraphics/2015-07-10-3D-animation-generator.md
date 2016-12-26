@@ -5,7 +5,7 @@ categories: Computer-Graphics
 title: "Animation Editor"
 img: /images/animationeditor.jpg
 abstract: "A Qt, DirectX11 based animation project. Users are able to write scripts to generate specific routes of the animated characters. Implemented animated skinning mesh, key frame interpolation and vertices bleeding at a low level. "
-tags: Qt DirectX11 skeleton
+tags: Qt DirectX11 animation skeleton
 ---
 ## Qt Framework ![qtlogo](./qtlogo.png)
 

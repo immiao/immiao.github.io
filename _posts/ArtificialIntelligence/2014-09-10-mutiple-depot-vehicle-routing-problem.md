@@ -2,6 +2,10 @@
 layout: post
 comments: true
 categories: Artificial-Intelligence
+
+img: /images/mdvrp.png
+abstract: "Applied Genetic Algorithm to solve Multiple Depot Vehicle Routing Problem, which is an extended problem of Travelling Salesman Problem."
+tags: artificial-intelligence operations-research TSP multiple-depot-vehicle-route-problem c++ matlab
 ---
 
 > I partook as one of top 60 students (700 totally) in the Undergraduate Research Program founded by our college. Under my mentor's guidance, I got involved in a cooperative project with electronic power company aiming at devising an efficient and low-cost scheduling proposal to maintain electricity metering devices. I found that Multi-depot Vehicle Routing Problem fits our requirement well. Thus, I conducted research on this topic.

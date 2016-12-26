@@ -2,6 +2,11 @@
 layout: post
 comments: true
 categories: Android
+
+title: "SYSU Library"
+img: /images/android.jpg
+abstract: "An Android university library application, sending GET/POST request to the official SYSU library website and parsing the returned HTML. Users can check the remaining collections of their desired books and add books to their favorite lists. Students are able to login in to check their borrowing history. "
+tags: Android Java Http SQLite HTML Jsoup 
 ---
 
 ## Android Developer Tools ![eclipse](./eclipse_logo.png) ![developer](./developer_logo.png)

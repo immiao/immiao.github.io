@@ -5,7 +5,8 @@ categories: Computer-Graphics
 
 title: "CPU Rasterizer"
 img: /images/rasterizer0.jpg
-abstract: "A Qt based simple ray tracing application. Applied Monte Carlo method to simulate diffuse materials."
+abstract: "A basic CPU rasterizer. Implemented mid-point line algorithm, MVP transformation, lighting and different shading techniques."
+tags: rasterizer shading
 
 ---
 

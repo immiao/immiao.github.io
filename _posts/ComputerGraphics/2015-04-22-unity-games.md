@@ -2,6 +2,11 @@
 layout: post
 comments: true
 categories: Computer-Graphics
+
+img: /images/unity.png
+abstract: "A collection of serveral Unity games I've ever made, including 3D Maze and 3D Sokoban."
+tags: Unity game-design
+
 ---
 
 > Unity is a cross-platform game engine developed by Unity Technologies and used to develop video games for PC, consoles, mobile devices and websites. First announced only for OS X, at Apple’s Worldwide Developers Conference in 2005, it has since been extended to target more than fifteen platforms.
@@ -37,10 +42,6 @@ This game can be downloaded by clicking this link : [here](./game.zip)
 *traditional Sokoban Game :*
 <br/>
 ![sokoban](./sokoban.png)
-
-#### Download
-
-It is still under development and the link will be released in the near future.
 
 #### Exhibition
 

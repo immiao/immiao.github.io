@@ -5,6 +5,7 @@ categories: Computer-Graphics
 title: "Simple CPU Ray Tracing"
 img: /images/raytracing.jpg
 abstract: "A Qt based simple ray tracing application. Applied Monte Carlo method to simulate diffuse materials."
+tags: Qt ray-tracing
 ---
 
 > This project is based on Qt framework and DirectX math library.
