@@ -4,7 +4,7 @@ comments: true
 categories: Computer-Graphics
 title: "Mesh Editor"
 img: /images/mesheditor.jpg
-abstract: "A Qt based simple ray tracing application. Applied Monte Carlo method to simulate diffuse materials."
-tags: Qt half-edge skeleton subdivision
+abstract: "A Qt and OpenGL based mesh editor. Implemented half-edge data structure, Catmull-Clark subdivision, face extruding, skeleton and skinning."
+tags: Qt OpenGL half-edge skeleton subdivision
 link: "https://github.com/immiao/Mesh-Editor"
 ---
