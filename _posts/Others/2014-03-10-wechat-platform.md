@@ -5,7 +5,7 @@ categories: Others
 
 img: /images/wechat.png
 abstract: "An auto responder based on Wechat Platform."
-tags: wechat Http HTML cloud-server
+tags: wechat http html cloud-server
 ---
 
 > WeChat (Chinese: 微信; pinyin: About this sound Wēixìn; literally: "micro message") is a mobile text and voice messaging communication service developed by Tencent in China, first released in January 2011. It is one of the largest standalone messaging apps by monthly active users. To benefit teachers and students in my college, our team set up a Wechat platform, which supports querying personal information, querying curriculum, querying grade, introducing communities, introducing activities and etc.
