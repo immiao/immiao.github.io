@@ -21,7 +21,12 @@ layout: default
       <div class="post-list-body">
         <div class="all-posts" post-cate="All">
           {% for post in site.posts %}
-            <a class="post-list-item" href="{{ post.url | prepend: site.baseurl }}" >
+            {% if post.link %}
+              {% assign link = post.link %}
+            {% else %}
+              {% assign link = post.url | prepend: site.baseurl %}
+            {% endif %}
+            <a class="post-list-item" href="{{ link }}" >
 
                 <img class="img" src="{{ post.img }}" alt="Desk">
 
