@@ -180,7 +180,7 @@ for (int i=0;i<tmp.numFace;i++)
 #### Results
 <br/>
 
-![result](./result.png)
+![result](./result.jpg)
 
 ***
 
