@@ -10,7 +10,7 @@ tags: Qt DirectX11 animation skeleton
 
 ## Screenshots
 
-![generator2](./generator2.jpg)
+![qt_designer](./qt_designer.jpg)
 
 ## Qt Framework ![qtlogo](./qtlogo.png)
 
@@ -18,7 +18,7 @@ tags: Qt DirectX11 animation skeleton
 
 I chose Qt GUI instead of [MFC](https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library) for our project considering its feature of simple operation, good across-platform, powerful maintainability and expansibility.
 
-![qtdesigner](./qt_designer.png)
+![generator2](./generator2.png)
 
 ## DirectX11 Framework ![directx11logo](./directx11.jpg)
 
@@ -266,7 +266,7 @@ VS_OUTPUT SkinnedVS(float3 Pos : POSITION, float4 Color : COLOR, float3 Weight :
 
 ![generator1](./generator1.jpg)
 
-![generator2](./generator2.jpg)
+![qt_designer](./qt_designer.jpg)
 
 ![generator3](./generator3.jpg)
 
