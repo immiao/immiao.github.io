@@ -18,7 +18,7 @@ tags: wechat http html cloud-server
 I set up the server for our project on Sina Cloud. The principle is as following:
 
 * get the user input from our Wechat platform
-* send POST request to [http://www.xiaohuangji.com](http://www.xiaohuangji.com), which is a auto-response online robot
+* send POST request to [http://www.xiaohuangji.com](http://www.xiaohuangji.com), which is an auto-response online robot
 * parse XML returned by the website
 * show the response to the user
 
