@@ -7,6 +7,11 @@ img: /images/animationeditor.jpg
 abstract: "A Qt, DirectX11 based animation project. Users are able to write scripts to generate specific routes of the animated characters. Implemented animated skinning mesh, key frame interpolation and vertices bleeding at a low level. "
 tags: Qt DirectX11 animation skeleton
 ---
+
+## Screenshots
+
+![generator2](./generator2.jpg)
+
 ## Qt Framework ![qtlogo](./qtlogo.png)
 
 > **Qt** (/ˈkjuːt/ "cute", or unofficially as Q-T cue-tee) is a cross-platform application framework that is widely used for developing application software that can be run on various software and hardware platforms with little or no change in the underlying codebase, while still being a native application with the capabilities and speed thereof. Qt is currently being developed both by the [Qt Company](https://en.wikipedia.org/wiki/The_Qt_Company), a subsidiary of [Digia](https://en.wikipedia.org/wiki/Digia), and the Qt Project under [open-source governance](https://en.wikipedia.org/wiki/Open-source_governance), involving individual developers and firms working to advance Qt. Digia owns the Qt trademark and copyright. Qt is available with both commercial and open source [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License) v3, [LGPL](https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License) v3 and LGPL v2 licenses.
