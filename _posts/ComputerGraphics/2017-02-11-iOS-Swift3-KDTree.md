@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Computer-Graphics
+categories: Computer-Graphics iOS
 title: "iOS Swift3 kNN KD-Tree"
 img: /images/kdtree.PNG
 abstract: "An iOS (Swift3) application - implemented KD-Tree data structure for k nearest neighbours search"
