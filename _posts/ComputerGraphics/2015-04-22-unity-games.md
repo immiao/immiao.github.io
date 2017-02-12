@@ -53,4 +53,4 @@ This game can be downloaded by clicking this link : [here](./game.zip)
 
 ## Wall Walker
 
-[![preview](http://img.youtube.com/vi/tF-LUuTEZY0/0.jpg)](http://www.youtube.com/watch?v=tF-LUuTEZY0)
+[![preview](http://img.youtube.com/vi/kuEZSES3RVs/0.jpg)](https://www.youtube.com/watch?v=kuEZSES3RVs)
