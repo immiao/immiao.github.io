@@ -53,4 +53,12 @@ This game can be downloaded by clicking this link : [here](./game.zip)
 
 ## Wall Walker
 
+[Repo Link](https://github.com/immiao/Wall-Walker)
+
 [![preview](http://img.youtube.com/vi/kuEZSES3RVs/0.jpg)](https://www.youtube.com/watch?v=kuEZSES3RVs)
+
+## Paint Ball Shooting Game
+
+[Repo Link](https://github.com/immiao/CIS568-PaintBall-Framework)
+
+[![preview](http://img.youtube.com/vi/APja_SLWHcY/0.jpg)](https://www.youtube.com/watch?v=APja_SLWHcY)
