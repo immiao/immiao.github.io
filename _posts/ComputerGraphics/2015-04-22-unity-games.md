@@ -3,8 +3,9 @@ layout: post
 comments: true
 categories: Computer-Graphics
 
+title: "Unity Games Collection"
 img: /images/unity.png
-abstract: "A collection of serveral Unity games I've ever made, including 3D Maze and 3D Sokoban."
+abstract: "A collection of serveral Unity games I've ever made, including 3D Maze, 3D Sokoban, Wall Walker and AR Shooting Game."
 tags: Unity game-design
 
 ---
