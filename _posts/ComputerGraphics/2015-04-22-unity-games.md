@@ -63,3 +63,7 @@ This game can be downloaded by clicking this link : [here](./game.zip)
 [Repo Link](https://github.com/immiao/CIS568-PaintBall-Framework)
 
 [![preview](http://img.youtube.com/vi/APja_SLWHcY/0.jpg)](https://www.youtube.com/watch?v=APja_SLWHcY)
+
+## VR Game - Fireman and Arsonist
+
+[![preview](http://img.youtube.com/vi/nhi-h6H8YNg/0.jpg)](https://www.youtube.com/watch?v=nhi-h6H8YNg)
